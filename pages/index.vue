@@ -9,7 +9,7 @@
           Central Asia
         </div>
         <div class="text-4xl font-bold text-slate-900">
-          Is Geography Destiny?
+          Is Physical Geography Destiny?
         </div>
       </div>
       <NuxtLink
