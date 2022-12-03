@@ -16,7 +16,7 @@
             Is Physical Geography Destiny?
           </div>
         </div>
-        <progress class="progress my-10" v-if="loaded"></progress>
+        <progress class="progress my-10" v-if="!loaded"></progress>
         <template v-else>
         <p class="py-4 pb-8 text-lg text-slate-700">
           By Joshua Chang

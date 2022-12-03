@@ -9,7 +9,7 @@
     <div class="modal modal-open font-serif z-[1001]">
       <div class="modal-box w-11/12 max-w-4xl p-24">
         <h3 class="font-bold text-5xl pb-6">The Yurt</h3>
-        <progress class="progress my-10" v-if="loaded"></progress>
+        <progress class="progress my-10" v-if="!loaded"></progress>
         <template v-else>
           <p class="py-4 text-2xl">
             The yurt, a type of dwelling used by nomadic and semi-nomadic people, is one of the most recognizable symbols of nomadic life on
