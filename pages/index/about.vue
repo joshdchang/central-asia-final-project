@@ -32,7 +32,7 @@
           impossible to discern any artifact of human existence.
         </p>
         <div class="py-4">
-          <img src="sattelite.png" class="w-full rounded-lg">
+          <img src="/sattelite.png" class="w-full rounded-lg">
           <figcaption class="mt-3">Source: NASA</figcaption>
         </div>
         <p class="py-4 text-2xl">
