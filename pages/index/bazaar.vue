@@ -2,7 +2,7 @@
   <div>
     <div class="modal modal-open font-serif z-[1001]">
       <div class="modal-box w-11/12 max-w-4xl p-24">
-        <h3 class="font-bold text-5xl pb-6">Bazaar</h3>
+        <h3 class="font-bold text-5xl pb-6">The Bazaar</h3>
         <p class="py-4 text-2xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
           dolore magna aliqua. Ut enim ad minim
           veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit

@@ -10,6 +10,9 @@
             Is Physical Geography Destiny?
           </div>
         </div>
+        <p class="py-4 pb-8 text-lg text-slate-700">
+          By Joshua Chang
+        </p>
         <p class="py-4 text-2xl">
           Consider your surroundings. Where are you right now? What do you notice? If you are reading this, chances are you are indoors, in
           a room,

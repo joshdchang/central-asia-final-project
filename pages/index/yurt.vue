@@ -2,20 +2,70 @@
   <div>
     <div class="modal modal-open font-serif z-[1001]">
       <div class="modal-box w-11/12 max-w-4xl p-24">
-        <h3 class="font-bold text-5xl pb-6">Yurt</h3>
-        <p class="py-4 text-2xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.</p>
-        <p class="py-4 text-2xl">Enim nec dui nunc mattis enim ut tellus. Amet luctus venenatis lectus magna. Fusce id velit ut tortor pretium viverra suspendisse. Tortor id
-        aliquet lectus proin. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Nibh sit amet commodo nulla facilisi. Quam
-        vulputate dignissim suspendisse in est. Augue ut lectus arcu bibendum at varius vel. Erat pellentesque adipiscing commodo elit at imperdiet
-        dui accumsan sit. Sit amet nisl purus in mollis nunc. Cursus turpis massa tincidunt dui ut. Purus ut faucibus pulvinar elementum integer
-        enim neque volutpat ac. Pharetra massa massa ultricies mi quis hendrerit dolor magna eget.</p>
-        <p class="py-4 text-2xl">Consectetur a erat nam at lectus urna. Ultricies integer quis auctor elit sed. Sed felis eget velit aliquet sagittis id consectetur purus
-        ut. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Massa vitae tortor condimentum lacinia quis vel. Suspendisse ultrices
-        gravida dictum fusce ut. Vulputate enim nulla aliquet porttitor lacus luctus. Morbi blandit cursus risus at ultrices mi tempus. Praesent
-        elementum facilisis leo vel fringilla est. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum.</p>
+        <h3 class="font-bold text-5xl pb-6">The Yurt</h3>
+        <p class="py-4 text-2xl">
+          The yurt, a type of dwelling used by nomadic and semi-nomadic people, is one of the most recognizable symbols of nomadic life on the Central Asia steppe. Yurts come in different varieties,
+          but most
+          have generally the same structure. In a paper titled “​​Architecture of the yurt and its impact on teaching young architects,”
+          Zhandarbek
+          Malibekuly writes, “Basically, the yurt is divided into three structural parts: the kerege, uyk and shanyrak.”
+        </p>
+        <p class="py-4 text-2xl">
+          According to Malibekuly, “The kerege is a bearing structural element,…. The uyk is a constructive element that rests on a kerege
+          base under
+          an incline, and is fixed at the end to support the shanyrak. The insulation of what is called uzіk felt, rests on the uyk and
+          provides heat
+          inside the yurt; at the same time as protecting it from precipitation, e.g. snow and rain. The shanyrak is the upper part of the
+          yurt.
+          Dome-shaped, the shanyrak protects the yurt from pressure in the form of snow and rain because of its shape. The round,
+          streamlined shape of
+          a truncated cone provides protection from strong winds.”
+        </p>
+        <p class="py-4 text-2xl">
+          From this description, it is clear that the yurt and its design are largely a function of the environment in which it exists. The
+          overall
+          form of the yurt is to fight against “strong winds,” and other major aspects of the design combat the precipitation of the steppe,
+          including
+          snow, rain.
+        </p>
+        <p class="py-4 text-2xl">
+          Perhaps the best evidence of the yurt as a function of its environment are the variations of yurts from place to place. Malibekuly
+          writes,
+          “In the Mongolian steppe, climatic conditions vary with sultry, strong winds whereas mountainous areas with rocky slopes are
+          characteristic
+          of Kyrgyzstan. Residential settlements are located mainly between the mountain ranges. The characteristic shape of the
+          configuration of the
+          Kyrgyz yurt is elongated and pointed. The yurts of the mountainous Altai retained the type of a classical hut or polygonal log
+          ail. Forests
+          and mountains cover the area from Altai to the Caspian Sea between about 45⁰ and 50⁰ north latitude. In addition, in the vast
+          expanses of
+          the Kazakh steppe, the yurts differ, but the overall proportions of the Kazakh yurts differ from others in the neighboring states
+          of Russia,
+          Kyrgyzstan, Mongolia and others.” (Malibekuly et al).
+        </p>
+        <p class="py-4 text-2xl">
+          From the steppe to the mountains to the forest, Malibekuly shows that the physical environment is perhaps the single most
+          important factor
+          guiding the differences between yurts across regions. Precipitation, wind, vegetation, topography, and latitude all have a
+          profound
+          influence on the yurt’s shape and structure.
+        </p>
+        <p class="py-4 text-2xl">
+          The yurt, however, is not simply a utilitarian object. The yurt is also a place of art and spiritual culture. According to Yelena Yurievna
+          Lichman, “The Kazakh yurt is not only an element of material culture of the folk, but also contains symbolism, in which different
+          information about religious and mythological image of the world is focused. In Kazakhs folk image of the world available to usual conscious,
+          such external features of the surrounding world as the sky, the Sun, the stars and the steppe served as a model for the outer and inner
+          space of yurt.” Even the spiritual aspects of the yurt are connected to the land and the environment. According to Lichman, the “surrounding
+          world” is central to the image of the yurt in a religious and mythological sense.
+        </p>
+        <p class="py-4 text-2xl">
+          The yurt is defined and characterized, perhaps most clearly of all the artifacts in this project, by the physical landscape it exists in and
+          the climatic conditions that it protects its inhabitants from. The yurt, an essential part of Central Asian nomadic and semi-nomadic
+          culture, is a dwelling place, but more than that, it is a grounded symbol of identity amidst a constantly changing world.
+        </p>
+        <p class="py-6 text-lg">
+          Note: the bibliography will be here, but I'm going to wait until I after I finish editing the content in case things change.
+        </p>
         <div class="modal-action">
           <NuxtLink to="/">
             <label for="my-modal-5" class="btn px-7 pb-1 pt-2 text-lg tracking-wide">Back</label>
