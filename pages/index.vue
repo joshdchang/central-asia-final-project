@@ -59,29 +59,29 @@
               },
               "geometry": {
                 "type": "Point",
-                "coordinates": [61, 50]
+                "coordinates": [69, 49]
               }
             },
+            // {
+            //   "type": "Feature",
+            //   "properties": {
+            //     "name": "clothes",
+            //     "image": "artifacts/bazaar.png"
+            //   },
+            //   "geometry": {
+            //     "type": "Point",
+            //     "coordinates": [79, 40]
+            //   }
+            // },
             {
               "type": "Feature",
               "properties": {
-                "name": "bazaar",
-                "image": "artifacts/bazaar.png"
+                "name": "sulaiman",
+                "image": "artifacts/mountain.png"
               },
               "geometry": {
                 "type": "Point",
                 "coordinates": [72.8, 41.3]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "mosque",
-                "image": "artifacts/mosque.png"
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [71.5, 51.16]
               }
             },
             {
@@ -128,7 +128,7 @@
       this.mapIsReady = true;
     },
     async mounted() {
-      for(let name of ["yurt", "bazaar", "mosque", "plov", "tembur"]) {
+      for(let name of ["yurt", "clothes", "sulaiman", "plov"]) {
       
         const interval = setInterval(() => {
           const artifact = document.querySelector(".click-" + name);
