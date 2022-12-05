@@ -70,7 +70,7 @@
               },
               "geometry": {
                 "type": "Point",
-                "coordinates": [73, 40.5]
+                "coordinates": [77, 40]
               }
             },
             {
@@ -95,17 +95,6 @@
                 "coordinates": [64, 42]
               }
             },
-            {
-              "type": "Feature",
-              "properties": {
-                "name": "tembur",
-                "image": "artifacts/tembur.jpg"
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [80, 42]
-              }
-            }
           ],
         },
         geojsonOptions: {
