@@ -70,7 +70,7 @@
               },
               "geometry": {
                 "type": "Point",
-                "coordinates": [77, 40]
+                "coordinates": [72.8, 41.3]
               }
             },
             {

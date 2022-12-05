@@ -2,7 +2,7 @@
   <div>
     <div class="modal modal-open font-serif z-[1001]">
       <div class="modal-box w-11/12 max-w-4xl p-24">
-        <h3 class="font-bold text-5xl pb-6">The Kashgar Bazaar</h3>
+        <h3 class="font-bold text-5xl pb-6">The Osh Bazaar</h3>
         <progress class="progress my-10"></progress>
         <div class="modal-action">
           <NuxtLink to="/">
