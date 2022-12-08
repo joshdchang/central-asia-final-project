@@ -80,7 +80,7 @@
         <p class="py-4 text-2xl">
           Each of the icons on the map represents one example of a cultural artifact, and if you click on one, it will open an explanation
           of the
-          artifact and its connection to the Earth. The artifacts — a yurt, mosque, dish, bazaar, and instrument — come from diverse parts
+          artifact and its connection to the Earth. The artifacts — a dish, a pilgrimage site, and a dwelling  — come from diverse parts
           of Central
           Asian culture, although by no means do they represent the entirety, or even a sliver, of what the region has to offer. Another
           thing to
