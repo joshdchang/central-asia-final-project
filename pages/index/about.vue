@@ -1,9 +1,4 @@
-<script setup>
-  const loaded = ref(false)
-  setTimeout(() => {
-    loaded.value = true
-  }, 2000)
-</script>
+
 <template>
   <div>
     <div class="modal modal-open font-serif z-[1001]">
@@ -16,8 +11,6 @@
             Is Physical Geography Destiny?
           </div>
         </div>
-        <progress class="progress my-10" v-if="!loaded"></progress>
-        <template v-else>
         <p class="py-4 pb-8 text-lg text-slate-700">
           By Joshua Chang
         </p>
@@ -96,7 +89,6 @@
           purpose,
           and their impact.
         </p>
-        </template>
         <div class="modal-action">
           <NuxtLink to="/">
             <label for="my-modal-5" class="btn px-7 pb-1 pt-2 text-lg tracking-wide">Back</label>

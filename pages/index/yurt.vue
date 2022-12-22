@@ -1,16 +1,9 @@
-<script setup>
-  const loaded = ref(false)
-  setTimeout(() => {
-    loaded.value = true
-  }, 2000)
-</script>
+
 <template>
   <div>
     <div class="modal modal-open font-serif z-[1001]">
       <div class="modal-box w-11/12 max-w-4xl p-24">
         <h3 class="font-bold text-5xl pb-6">The Yurt</h3>
-        <progress class="progress my-10" v-if="!loaded"></progress>
-        <template v-else>
           <p class="py-4 text-2xl">
             The yurt, a type of dwelling used by nomadic and semi-nomadic people, is one of the most recognizable symbols of nomadic life on
             the Central Asia steppe. Yurts come in different varieties,
@@ -86,7 +79,6 @@
           <p class="py-6 text-lg">
             Note: the bibliography will be here, but I'm going to wait until I after I finish editing the content in case things change.
           </p>
-        </template>
         <div class="modal-action">
           <NuxtLink to="/">
             <label for="my-modal-5" class="btn px-7 pb-1 pt-2 text-lg tracking-wide">Back</label>
