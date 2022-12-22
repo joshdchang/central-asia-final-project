@@ -79,23 +79,23 @@
         <p class="py-4 text-2xl">
           Bibliography
         </p>
-        <p>
+        <p class="py-2 -indent-10 pl-10">
           UNESCO World Heritage Centre. “Sacred Mountain in Kyrgyzstan Enters List along with Iran's Shushtar Water System and Royal Tombs in
           Republic of Korea.” UNESCO World Heritage Centre. UNESCO World Heritage Centre, June 29, 2009. https://whc.unesco.org/en/news/529.
         </p>
-        <p>
+        <p class="py-2 -indent-10 pl-10">
           Gawron, Christian. View of the Mountain from the City of Osh. Wikimedia Commons. Wikimedia Commons, September 21, 2005.
           https://en.wikipedia.org/wiki/Sulayman_Mountain#/media/File:Kyrgyzstan_Osh_with_Suleiman_Hill.jpg.
         </p>
-        <p>
+        <p class="py-2 -indent-10 pl-10">
           Sahadeo, Jeff, Russell G. Zanca, and Morgan Y Liu. “A Central Asian Tale of Two Cities: Locating Lives and Aspirations in a Shifting
           Post-Soviet Cityscape.” Essay. In Everyday Life in Central Asia: Past and Present, 66-83. Bloomington: Indiana University Press, 2007.
         </p>
-        <p>
+        <p class="py-2 -indent-10 pl-10">
           Bernbaum, Edwin. “Central Asia: The Distant Ranges.” Chapter. In Sacred Mountains of the World, 2nd ed., 67–79. Cambridge: Cambridge
           University Press, 2022. doi:10.1017/9781108873307.005.
         </p>
-        <p>
+        <p class="py-2 -indent-10 pl-10">
           Dean, Riaz. “The Location of Ptolemy’s Stone Tower: the Case for Sulaiman-Too in Osh.” The Silk Road, Vol 13., 2015, 75–83.
         </p>
         <div class="modal-action">
