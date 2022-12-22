@@ -33,7 +33,7 @@
         <p class="py-4 text-2xl">
           Perhaps the best evidence of the yurt as a function of its environment are the variations of yurts from place to place. On the
           Mongolian
-          steppe, for instance, the “climatic conditions vary with sultry, strong winds,” the yurts are “the type of a classical hut or
+          steppe, for instance, where the “climatic conditions vary with sultry, strong winds,” the yurts are “the type of a classical hut or
           polygonal log
           ail” [3]. This differs from mountainous, “rocky slopes” of much of Kyrgyzstan, where the yurts are usually “elongated and pointed”
           [4].
