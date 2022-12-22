@@ -48,6 +48,43 @@
           a unique set of historical and geographic circumstances. That grain agriculture, in turn, defines Uzbek cuisine, including plov. It all
           comes back to geography.
         </p>
+        <p class="py-8">
+          1. Russell G. Zanca, “Fat and All That: Good Eating the Uzbek Way,” in Everyday Life in Central Asia: Past and Present
+          (Bloomington, Indiana: Indiana University Press, 2007), pp. 178-197, 181.
+          <br>
+          2. Zanca, 181
+          <br>
+          3. Zanca, 184
+          <br>
+          4. Zanca, 184
+          <br>
+          5. Zanca, 181
+          <br>
+          6. Robert N Spengler et al., “The Spread of Agriculture into Northern Central Asia: Timing, Pathways, and Environmental Feedbacks,” The
+          Holocene 26, no. 10 (2016): pp. 1527-1540, https://doi.org/10.1177/0959683616641739.
+          <br>
+          7. Spengler et al., 1529
+          <br>
+          8. Spengler et al., 1529
+          <br>
+          9. Komilova, N. Kh. et al. “Territorial Structure of Agriculture Development in Uzbekistan in Terms of Economical
+          Geography,” Journal of Advanced Research In Law and Economics, Volume X, Winter (2019): pp. 2364 - 2372, 2366.
+        </p>
+        <p class="py-4 text-2xl">
+          Bibliography
+        </p>
+        <p class="py-2 -indent-10 pl-10">
+          Komilova, N. Kh. et al. “Territorial Structure of Agriculture Development in Uzbekistan in Terms of Economical
+          Geography,” Journal of Advanced Research In Law and Economics, Volume X, Winter (2019): 2364 - 2372.
+        </p>
+        <p class="py-2 -indent-10 pl-10">
+          Sahadeo, Jeff, and Russell G. Zanca. “Fat and All That: Good Eating the Uzbek Way.” Essay. In Everyday Life in Central Asia: Past and
+          Present, 178–97. Bloomington, Indiana: Indiana University Press, 2007.
+        </p>
+        <p class="py-2 -indent-10 pl-10">
+          Spengler, Robert N, Natalia Ryabogina, Pavel E Tarasov, and Mayke Wagner. “The Spread of Agriculture into Northern Central Asia: Timing,
+          Pathways, and Environmental Feedbacks. The Holocene 26, no. 10 (2016): 1527–40. https://doi.org/10.1177/0959683616641739.
+        </p>
         <div class="modal-action">
           <NuxtLink to="/">
             <label for="my-modal-5" class="btn px-7 pb-1 pt-2 text-lg tracking-wide">Back</label>
