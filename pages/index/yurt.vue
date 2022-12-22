@@ -11,7 +11,7 @@
         <p class="py-4 text-2xl">
           There are three main structural components of the yurt. First, the “kerege,” which is a “bearing structural element” that makes up
           the
-          walls. Then, there are the “uyk,” which are poles that create dome structure for the roof. Finally, there is the “shanyrak,” which
+          walls. Then, there are the “uyk,” which are poles that create a dome structure for the roof. Finally, there is the “shanyrak,” which
           is a
           round rim that holds together the top of the dome [1].
         </p>
