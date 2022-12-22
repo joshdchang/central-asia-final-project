@@ -1,6 +1,8 @@
 <template>
   <Html class="bg-slate-100">
-
+    <Head>
+      <Title>Central Asia: Is Physical Geography Destiny?</Title>
+    </Head>
   </Html>
   <div class="absolute inset-14 grid items-center w-full max-w-5xl mx-auto">
     <div class="grid items-center justify-between font-serif grid-flow-col gap-2 self-end mb-8">
