@@ -102,7 +102,7 @@
         geojsonOptions: {
           // Options that don't rely on Leaflet methods.
         },
-        image: "terrain3.png",
+        image: "terrain4.jpg",
         bounds: [
           [35.21639549928713, 45.45447164119719],
           [55.64710121676032, 90.44351810932858],

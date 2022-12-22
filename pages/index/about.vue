@@ -53,7 +53,8 @@
           temperature and precipitation. Places with more precipitation are more green and places with less are more tan. Places with a
           higher elevation are lighter in color, like the white mountain peaks. The hypsometric tint is based on data from another
           open-source project called Natural Earth. Finally, I placed a layer to show major lakes, rivers, and seas, also derived from
-          Natural Earth. The overall idea was to create a map that feels “real,” that almost feels like you could touch it.
+          Natural Earth. The overall idea was to create a map that feels “real,” that almost feels like you could touch it. The map is very
+          high resolution (16,196  ×  7,355 pixels), so I urge you to zoom in and explore the details.
         </p>
         <p class="py-4 text-2xl">
           Each of the icons on the map represents one example of a cultural artifact, and if you click on one, it
@@ -73,7 +74,8 @@
           <figcaption class="mt-3">Photo of the Tien Shan taken from the International Space Station. Source: NASA [2]</figcaption>
         </div>
         <p class="py-4 text-2xl">
-          P.S. If you are interested in seeing more amazing imagery of Central Asia (or anywhere) from space, check out the <a href="https://visibleearth.nasa.gov/" class="text-sky-600 underline" target="_blank">NASA Visible Earth Project</a>.
+          P.S. If you are interested in seeing more amazing imagery of Central Asia (or anywhere) from space, check out the <a
+            href="https://visibleearth.nasa.gov/" class="text-sky-600 underline" target="_blank">NASA Visible Earth Project</a>.
         </p>
         <p class="py-8">
           1. Satellite Photo of Central Asia. NASA Visible Earth Project. National Aeronautics and Space Administration, 2004.
