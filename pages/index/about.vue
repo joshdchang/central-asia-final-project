@@ -31,7 +31,7 @@
         </p>
         <div class="py-4">
           <img src="/sattelite.png" class="w-full rounded-lg">
-          <figcaption class="mt-3">Source: NASA [1]</figcaption>
+          <figcaption class="mt-3">Satellite image of Central Asia. Source: NASA [1]</figcaption>
         </div>
         <p class="py-4 text-2xl">
           That isn’t to say that political geography isn’t important — it obviously is. But, it is easy to overlook,
@@ -68,9 +68,18 @@
           introduction and conclusion, the artifacts each represent a body paragraph, and the website and map act as transitions. I hope
           that, as you explore, you gain a new perspective on the geography of Central Asia and its important connection to culture.
         </p>
+        <div class="py-4">
+          <img src="/visible.jpeg" class="w-full rounded-lg">
+          <figcaption class="mt-3">Photo of the Tien Shan taken from the International Space Station. Source: NASA [2]</figcaption>
+        </div>
+        <p class="py-4 text-2xl">
+          P.S. If you are interested in seeing more amazing imagery of Central Asia (or anywhere) from space, check out the <a href="https://visibleearth.nasa.gov/" class="text-sky-600 underline" target="_blank">NASA Visible Earth Project</a>.
+        </p>
         <p class="py-8">
           1. Satellite Photo of Central Asia. NASA Visible Earth Project. National Aeronautics and Space Administration, 2004.
           https://visibleearth.nasa.gov/.
+          <br>
+          2. Sand and Snow in Central Asia. NASA Visible Earth Project. National Aeronautics and Space Administration, December 5, 2018.
         </p>
         <p class="py-4 text-2xl">
           Bibliography
@@ -86,6 +95,21 @@
         <p class="py-2 -indent-10 pl-10">
           “AρρEEARS.” NASA Earth Observing System Data and Information System. NASA. Accessed November 26, 2022.
           https://appeears.earthdatacloud.nasa.gov/explore.
+        </p>
+        <p class="py-2 -indent-10 pl-10">
+          Collett, Richard. The Sacred Sulaiman-Too Mountain in Osh, Kyrgyzstan. December 1, 2018. Travel Tramp.
+          https://www.travel-tramp.com/sulaiman-too-osh-kyrgyzstan/.
+        </p>
+        <p class="py-2 -indent-10 pl-10">
+          Image of a Kyrgyz yurt. Avantour. Accessed December 21, 2022. https://www.advantour.com/kyrgyzstan/culture/yurts.htm.
+        </p>
+        <p class="py-2 -indent-10 pl-10">
+          Mike Benayoun, Mike. Image of Plov. Plov. 196 Flavors, May 28, 2018. https://www.196flavors.com/uzbekistan-plov/.
+        </p>
+        <p class="py-2 -indent-10 pl-10">
+          Sand and Snow in Central Asia. NASA Visible Earth Project. National Aeronautics and Space
+          Administration, December 5, 2018.
+          https://visibleearth.nasa.gov/.
         </p>
         <p class="py-2 -indent-10 pl-10">
           Satellite Photo of Central Asia. NASA Visible Earth Project. National Aeronautics and Space Administration, 2004.

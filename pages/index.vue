@@ -79,7 +79,7 @@
               "type": "Feature",
               "properties": {
                 "name": "sulaiman",
-                "image": "artifacts/mountain.png"
+                "image": "artifacts/sulaiman.jpg"
               },
               "geometry": {
                 "type": "Point",
