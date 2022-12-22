@@ -10,7 +10,7 @@
         </p>
         <div class="py-4">
           <img src="/plov.webp" class="w-full rounded-lg">
-          <figcaption class="mt-3">Plov. Source: Natalya Drozhzhin [2]</figcaption>
+          <figcaption class="mt-3">Photo of Plov in a pot. Source: Natalya Drozhzhin [2]</figcaption>
         </div>
         <p class="py-4 text-2xl">
           Although plov is “ubiquitous” [3] across various places, what makes Central Asian plov unique, and specifically Uzbek plov unique, is the

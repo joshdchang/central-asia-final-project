@@ -17,7 +17,7 @@
         </p>
         <div class="py-4">
           <img src="/yurt.jpg" class="w-full rounded-lg">
-          <figcaption class="mt-3">Source: Yurt Info [2]</figcaption>
+          <figcaption class="mt-3">A simplified diagram of a typical yurt. Source: Yurt Info [2]</figcaption>
         </div>
         <p class="py-4 text-2xl">
           Despite its simplicity, the yurt is designed to be incredibly sturdy and resistant to the elements. Malibekuly writes, “...the
