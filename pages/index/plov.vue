@@ -18,13 +18,13 @@
           So, why is oily plov so highly valued in Uzbekistan? Largely, it is to supplement a diet high in grains, mainly bread and rice [4].
           Essentially, when grains make up most of your diet, a fatty dish is not seen as an unhealthy indulgence as it is in many Western cultures,
           but rather as a part of general nutrition. To this point Zanca writes, “Uzbeks want to praise and consume fats not only in the sense of
-          imbibing the commonsensical good life but also because they see it as an essential part of healthful or nutritious dining,” [5] confirming
-          that a constrained diet, based primarily on grains, is the reason many Uzbeks love oily plov.
+          imbibing the commonsensical good life but also because they see it as an essential part of healthful or nutritious dining” [5]. In other words,
+          the oil in plov is not just a luxury, but a necessity.
         </p>
         <p class="py-4 text-2xl">
           This brings us to the concept that ties plov, and really all food, so deeply to the earth: agriculture. Agriculture is quite literally the
           foundation of civilization, and with food playing such a large role in everyday life and traditions, its cultural impact cannot be
-          overstated. And while agriculture is impacted by political and social realities, it is fundamentally based on land, water, soil, and other
+          overstated. While agriculture is impacted by political and social realities, it is fundamentally based on land, water, soil, and other
           physical geographic features.
         </p>
         <p class="py-4 text-2xl">
@@ -52,20 +52,20 @@
           1. Russell G. Zanca, “Fat and All That: Good Eating the Uzbek Way,” in Everyday Life in Central Asia: Past and Present
           (Bloomington, Indiana: Indiana University Press, 2007), pp. 178-197, 181.
           <br>
-          2. Zanca, 181
+          2. Zanca, 181.
           <br>
-          3. Zanca, 184
+          3. Zanca, 184.
           <br>
-          4. Zanca, 184
+          4. Zanca, 184.
           <br>
-          5. Zanca, 181
+          5. Zanca, 181.
           <br>
           6. Robert N Spengler et al., “The Spread of Agriculture into Northern Central Asia: Timing, Pathways, and Environmental Feedbacks,” The
           Holocene 26, no. 10 (2016): pp. 1527-1540, https://doi.org/10.1177/0959683616641739.
           <br>
-          7. Spengler et al., 1529
+          7. Spengler et al., 1529.
           <br>
-          8. Spengler et al., 1529
+          8. Spengler et al., 1529.
           <br>
           9. Komilova, N. Kh. et al. “Territorial Structure of Agriculture Development in Uzbekistan in Terms of Economical
           Geography,” Journal of Advanced Research In Law and Economics, Volume X, Winter (2019): pp. 2364 - 2372, 2366.

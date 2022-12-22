@@ -57,12 +57,12 @@
           stars and the steppe served as a model for the outer and inner space of yurt” [5]. This demonstrates that even the spiritual
           aspects of the
           yurt are connected to the land and the environment. The “surrounding world” is central to the image of the yurt in a religious and
-          mythological sense, and the “steppe,” the physical biome of the yurt, is one of the most important pieces of folk spiritual
+          mythological sense, and the “steppe,” the physical biome of the yurt, is one of the most important pieces of the folk spiritual
           culture of the
           nomadic people who live within it.
         </p>
         <p class="py-4 text-2xl">
-          The yurt is defined and characterized by the physical landscape it exists in and the climatic conditions that it protects its
+          The yurt is defined and characterized by the physical landscape it exists within and the climatic conditions that it protects its
           inhabitants
           from. An essential part of Central Asian nomadic and semi-nomadic culture, the yurt is a dwelling place, but beyond that, it is a
           grounded
@@ -75,11 +75,11 @@
           <br>
           2. Becky Kemery, Yurt Info, 2006, https://www.yurtinfo.org/images/faq09.jpg.
           <br>
-          3. Malibekuly, 227
+          3. Malibekuly, 227.
           <br>
-          4. Malibekuly, 227
+          4. Malibekuly, 227.
           <br>
-          5. Malibekuly, 227
+          5. Malibekuly, 227.
           <br>
           6. Yelena Yurievna Lichman and Tamara Mikhailovna Doroshenko, “Traditions of Art and Craft Decoration and Architecture of Kazakh
           Yurt as a

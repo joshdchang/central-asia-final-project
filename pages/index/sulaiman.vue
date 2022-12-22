@@ -23,7 +23,7 @@
           spots
           on the mountain that have different properties with regards to different ailments [4]. One specific hole in the rock is used for
           “sticking a
-          sore arm all the way in to remove pain,”, a cave for “infertile women to enter in order to become able to conceive children,” and
+          sore arm all the way in to remove pain,” a cave for “infertile women to enter in order to become able to conceive children,” and
           “a slide
           of polished rock said to cure back aches” [5]. Women often walk around the mountain, utilizing the different topographic and
           geologic
@@ -66,15 +66,15 @@
           4. Bernbaum, Edwin. “Central Asia: The Distant Ranges.” Chapter. In Sacred Mountains of the World, 2nd ed., (Cambridge: Cambridge
           University Press, 2022), pp. 67–79, 68.
           <br>
-          5. Bernbaum, 68
+          5. Bernbaum, 68.
           <br>
-          6. Bernbaum, 68
+          6. Bernbaum, 68.
           <br>
-          7. Bernbaum, 68
+          7. Bernbaum, 68.
           <br>
           8. Riaz Dean, “The Location of Ptolemy’s Stone Tower: the Case for Sulaiman-Too in Osh,” The Silk Road, Vol 13., 2015, pp. 75-83, 75.
           <br>
-          9. Bernbaum, 68
+          9. Bernbaum, 68.
         </p>
         <p class="py-4 text-2xl">
           Bibliography
