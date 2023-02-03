@@ -1,3 +1,3 @@
-# My final project for a class called Culture and Everyday Life in Central Asia
+# Culture and Everyday Life in Central Asia Final Project
 
 https://centralasia.joshdchang.com
